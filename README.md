@@ -4,3 +4,5 @@ Cardiovascular disease is the leading cause of death worldwide and in our countr
 After exploring the dataset, and with additional preprocessing, there should be no major challenges when it comes to creating the different models that this project seeks to utilize. With a relatively even distribution of outcomes, the dataset is already set up that will assist in creating unbiased models. Though the data may not have enough depth to tackle big picture questions related to the factors contributing to cardiovascular disease, it could still prove reliable in predicting the presence of it in a patient.
 
 Beginning with the model building of the project, a logistic regression model was created to serve as a baseline for the more complex models to come. The first model for the project has been created, a K-Nearest Neighbor Classifier model for predicting the outcome.
+
+Created a project poster that displays all findings after making the preliminary model
