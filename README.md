@@ -6,3 +6,5 @@ After exploring the dataset, and with additional preprocessing, there should be 
 Beginning with the model building of the project, a logistic regression model was created to serve as a baseline for the more complex models to come. The first model for the project has been created, a K-Nearest Neighbor Classifier model for predicting the outcome.
 
 Created a project poster that displays all findings after making the preliminary model
+
+Model building was furthered with the additions of a decision tree and random forest models. A baseline model was created for each type, and then an additional model was created where parameters were tuned in an attempt to improve the effectiveness of the models. The final result was an elimination and reduction in false negatives at the expense of overall model performance.
